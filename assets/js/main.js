@@ -1,11 +1,10 @@
 /*===== MENU SHOW =====*/
 const arraySkills = [
+    'Software Developer',
     'Web Developer',
     'Mobile Developer',
     'UI/UX Designer',
-    'Flutter Developer',
-    'Laravel Developer',
-    'React JS Developer'
+    'Joshua',
 ];
 
 let skillIndex = 0;
